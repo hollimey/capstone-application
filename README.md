@@ -18,3 +18,12 @@ US tide data- https://tidesandcurrents.noaa.gov/map/
 2. Download the HTML, CSS, and JavaScript files in the repository to a designated project folder on your computer.
 3. Open the folder in VS Code.
 4. Run the code to view the web application.
+
+
+### TBD Methods -- IGNORE
++ Install React: https://nodejs.org/en/download
++ Command terminal:<br/> *C:\Users\bmo\ocean_app>* npx create-react-app my-app<br/>
+Need to install the following packages:<br/>
+create-react-app@5.1.0<br/>
+Ok to proceed? (y) y
++ Command terminal:<br/> *C:\Users\bmo\ocean_app>* npm install @mui/material @mui/icons-material @mui/lab @emotion/react @emotion/styled
