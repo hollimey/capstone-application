@@ -22,10 +22,12 @@ US tide data- https://tidesandcurrents.noaa.gov/map/
 ### TBD Methods -- IGNORE
 + Install React: https://nodejs.org/en/download
 + Open VS Code and navigate to 'View' then 'Terminal'.
-+ Lauch the Command Prompt terminal:<br/> *C:\Users\bmo\ocean_app>* **npx create-react-app my-app**<br/>
++ Lauch the Command Prompt terminal:<br/>
+<pre><code>*C:\Users\bmo\ocean_app>* **npx create-react-app my-app**<br/>
 Need to install the following packages:<br/>
 create-react-app@5.1.0<br/>
 Ok to proceed? (y) **y**
+  </code></pre>
 + *C:\Users\bmo\ocean_app>* **npm install @mui/material @mui/icons-material @mui/lab @emotion/react @emotion/styled @react-google-maps/api google-map-react @mui/styles**
 + *C:\Users\bmo\ocean_app>* **npm start**
 + 
