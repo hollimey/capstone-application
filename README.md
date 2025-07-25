@@ -1,13 +1,21 @@
 # Capstone Project
-**Created by Holli Meyers**, at the University of Washington. <br/><br/>
+
+**Created by Holli Meyers**, at the University of Washington.
+
+Information architecture project inspired by Apple and Samsungs mobile weather app, which provide no information on the oceans for users residing in or visiting coastal cities. <br/><br/>
+
 
 ## Background
-The project was inspired from 
 
 The effects of climate change are to only increase. Coupled with the impacts of other human caused issues, our environment is to continue facing extreme and variable patterns that will be life altering. Thus, it’s important the public has easily accessible access to the real-time data that’s gathered globally to stay informed and allow them to plan accordingly to their current or sought out location.
-Real-time environmental data is collected from a variety of different sources and locations, only some of which can actually be easily found and understood by the general public. Yet, none provide a consolidated overview of the information. This is especially true for oceanic data, which never seems to be included in weather applications. Navigating between fragmented data sources can be difficult for the average user. It requires time and patience finding sites that not only hold the correct information they seek in relation to the desired location, but also an intuitive format that makes sense and doesn’t require special downloads or software.
+
+Real-time environmental data is collected from a variety of different sources and locations, only some of which can actually be easily found and understood by the general public. Yet, none provide a consolidated overview of the information. This is especially true for oceanic data, which at this time has yet to be fully integrated into traditional weather applications. Navigating between fragmented data sources can be difficult for the average user. It requires time and patience finding sites that not only hold the correct information they seek in relation to the desired location, but also an intuitive format that makes sense and doesn’t require special downloads or software.
+
+To combat this information problem, this project organized, structured, and labeled traditional weather information from atmospheric resources and 
+content in a way that makes it easy for people to find, understand, and use. It’s a key discipline in fields like web design, app development, user experience (UX) design, and content strategy.
 
 The project aims to design and implement a centralized web application that integrates real-time atmospheric and other weather-related information with oceanic data. To accommodate the fragmented data across government agencies, universities, research institutions, and other organizations, the platform will use schema mapping to draw data from its various structured information sources. Consequently, presenting the information systems into a unified, accessible format with features that allow users to quickly and easily, access an enhanced weather overview for their desired area.
+
 
 ### Current Applications
 
