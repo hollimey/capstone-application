@@ -11,6 +11,23 @@ The project aims to design and implement a centralized web application that inte
 
 ### Current Applications
 
+The Weather Channel
+<img width="1805" height="1332" alt="Image" src="https://github.com/user-attachments/assets/4586b5aa-3417-4062-8d67-077be8ddb54e" />
+The Weather Channel provides hourly, 5-day, and 10-day atmospheric forecasts. With more specialized readings of flu risk predictions from the CDC like influenza, allergy tracking of pollen density in the air, and air quality assessments of pollutions related to ozone, carbon monoxide, nitrogen dioxide, particulate matter less than 10 microns, particulate matter less than 2.5 microns, and sulfur dioxide. The Weather Channel also offers a radar map to visualize rain, snow, and fog, and a search feature to find locations globally by city (“Weather Forecast and Conditions,” 2025).
+
+AccuWeather
+<img width="1416" height="1525" alt="Image" src="https://github.com/user-attachments/assets/58115b0e-3a15-46a6-bc4f-8ee1f9586946" />
+AccuWeather provides similar information plus a health and activity feature, a global severe weather map, and a few live coverage weather notifications on the top of the site’s navigation bar. The health and activity feature allows you to view a bar graph of how the weather will impact certain health conditions like arthritis, migraines, asthma, and sinus pressure. As well as, monitoring pest levels like mosquitos, garden care like mowing and composting, and other outdoor activities like fishing and pool days which give readings of cloud cover, rain, UV index, and wind (“Beach & Pool,” 2025).
+
+The National Oceanic and Atmospheric Administration (NOAA) 
+<img width="1562" height="1400" alt="Image" src="https://github.com/user-attachments/assets/3a945041-fbf5-4b49-8c23-090c5211c32b" />
+NOAA has a National Weather Service site that is more simplified but less intuitive than the other applications. It offers a U.S. image loop radar map of tornados, severe thunderstorms, flash floods, special marine, and snow squall across the country. Additionally, it includes a static U.S. map of 30 weather warnings and advisories that could be showcased via different colors on the map (“National Weather Service,” 2025).
+
+Web application Earth
+<img width="1393" height="1108" alt="Image" src="https://github.com/user-attachments/assets/3cdaa004-ac53-4097-b815-6292e5a70c6f" />
+Earth provides a non-traditional layout. The site seems more intuitive given its clean user interface which lacks any navigation bar or featured news articles seen in the other popular sites provided. However, it may be less legible for the general public who aren’t familiar with certain data points like what the speed of an ocean current is and what dictates it as normal or not. While Earth allows users to navigate to different areas, it doesn’t provide a location search feature to ensure an accurate pinpoint of an area (“Earth,” 2025).
+
+
 
 ## Overview
 The repository contains a new portable information structure. <br/>
