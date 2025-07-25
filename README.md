@@ -11,10 +11,9 @@ The effects of climate change are to only increase. Coupled with the impacts of 
 
 Real-time environmental data is collected from a variety of different sources and locations, only some of which can actually be easily found and understood by the general public. Yet, none provide a consolidated overview of the information. This is especially true for oceanic data, which at this time has yet to be fully integrated into traditional weather applications. Navigating between fragmented data sources can be difficult for the average user. It requires time and patience finding sites that not only hold the correct information they seek in relation to the desired location, but also an intuitive format that makes sense and doesn’t require special downloads or software.
 
-To combat this information problem, this project organized, structured, and labeled traditional weather information from atmospheric resources and 
-content in a way that makes it easy for people to find, understand, and use. It’s a key discipline in fields like web design, app development, user experience (UX) design, and content strategy.
+As a result, this project organized, structured, and labeled traditional weather information from atmospheric resources and integrated new data from oceanic resources to centralize the information for users. To accommodate the fragmented data across government agencies, universities, research institutions, and other organizations, the platform will use schema mapping to draw data from its various structured information sources. Consequently, presenting the information systems into a unified, accessible format with features that allow users to quickly and easily, access an enhanced weather overview for their desired area.
 
-The project aims to design and implement a centralized web application that integrates real-time atmospheric and other weather-related information with oceanic data. To accommodate the fragmented data across government agencies, universities, research institutions, and other organizations, the platform will use schema mapping to draw data from its various structured information sources. Consequently, presenting the information systems into a unified, accessible format with features that allow users to quickly and easily, access an enhanced weather overview for their desired area.
+The information presented in this project can be used in fields like web design, app development, user experience (UX) design, and content strategy.
 
 
 ### Current Applications
