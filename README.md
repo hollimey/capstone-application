@@ -38,10 +38,12 @@ The repository contains a new portable information structure. <br/>
 **Data Sources:** <br/>
 Ocean buoy data map, list, guide, and description - https://www.ndbc.noaa.gov/ / https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt / https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf / https://www.ndbc.noaa.gov/faq/measdes.shtml <br/>
 
-**TBD Data Integration Sources:** <br/>
+**Potential Sources For Later Integration:** <br/>
 Real-time data file list - https://www.ndbc.noaa.gov/data/realtime2/ <br/>
 Global monitoring data map - https://viz.pmel.noaa.gov/osmc/?color_by=platform_type&platform_code=PTAW1 <br/>
-US tide and current data - https://tidesandcurrents.noaa.gov/map/
+US tide and current data - https://tidesandcurrents.noaa.gov/map/ <br/>
+PORTS active current stations - https://opendap.co-ops.nos.noaa.gov/axis/webservices/activecurrentstations/response.jsp?format=html <br/>
+
 
 ## Methods
 1. Download a code editor like Visual Studio (VS) Code to set up a development environment.
