@@ -42,7 +42,8 @@ The repository contains a new portable information structure. <br/>
 + Global monitoring data map - https://viz.pmel.noaa.gov/osmc/?color_by=platform_type&platform_code=PTAW1 <br/>
 + US tide and current data - https://tidesandcurrents.noaa.gov/map/ <br/>
 + PORTS active current stations - https://opendap.co-ops.nos.noaa.gov/axis/webservices/activecurrentstations/response.jsp?format=html <br/>
-
++ CO-OPS daily maximum and minimum water level (hourly) - https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?begin_date={yyyymmdd}&end_date={yyyymmdd}&station={station_id}&product=daily_max_min&datum=MHHW&time_zone=gmt&units=metric&application=DataAPI_Sample&format=json <br/>(define the date range with yesterday and today's date, and station_id with correct values) <br/>
++ CO-OPS tide predictions - https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=NOS.COOPS.TAC.WL&begin_date={yesterday}&end_date={today}&datum=MLLW&station={station_id}&time_zone=GMT&units=english&interval=&format=json <br/>(define the date range with yesterday and today's date, and station_id with correct values) / https://tidesandcurrents.noaa.gov/education/tech-assist/training/user-guides/assets/pdfs/Tide_Predictions_User_Guide_v4.pdf / https://tidesandcurrents.noaa.gov/water_level_info.html <br/>
 
 ## Methods
 1. Download the Python Notebook file "OceanWeatherApp.ipynb" and import into Google Colab. Or, navigate to the preview section of the github file and click the link at the top labeled "Open in Colab."
