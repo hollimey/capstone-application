@@ -46,6 +46,7 @@ The repository contains a new portable information structure. <br/>
 + CO-OPS coastal inundation - https://tidesandcurrents.noaa.gov/inundationdb/ / https://api.tidesandcurrents.noaa.gov/dpapi/prod / https://tidesandcurrents.noaa.gov/api-helper/url-generator.html <br/>
 + CO-OPS tsunami capable tide stations - https://tidesandcurrents.noaa.gov/tsunami/# <br/>
 + NCEI natural hazards - https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-data?sourceMaxYear=2025&sourceMinYear=2008&typeMeasurementId=2&country=USA&area=CA&locInclude=SAN+DIEGO / https://www.ncei.noaa.gov/maps/hazards/?layers=0 / https://www.ngdc.noaa.gov/hazel/view/swagger#/ <br/>
++ CO-OPS main observational data resource hub - https://opendap.co-ops.nos.noaa.gov/
 
 ## Methods
 1. Download the Python Notebook file "OceanWeatherApp.ipynb" and import into Google Colab. Or, navigate to the preview section of the github file and click the link at the top labeled "Open in Colab."
