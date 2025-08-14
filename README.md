@@ -35,20 +35,25 @@ Web application Earth, provides a non-traditional layout. The site seems more in
 The repository contains a new portable information structure. <br/>
 
 ### Data Sources:
-+ Ocean buoy data map, list, guide, and description - https://www.ndbc.noaa.gov/ / https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt / https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf / https://www.ndbc.noaa.gov/faq/measdes.shtml <br/>
++ NOAA ocean buoy data map, list, guide, and description - https://www.ndbc.noaa.gov/ / https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt / https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf / https://www.ndbc.noaa.gov/faq/measdes.shtml <br/>
++ NOAA CO-OPS api - https://tidesandcurrents.noaa.gov/api-helper/url-generator.html / https://api.tidesandcurrents.noaa.gov/api/prod/ / https://api.tidesandcurrents.noaa.gov/api/prod/#requestResponse
++ NOAA CO-OPS sensor observations - https://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/ <br/>
++ NOAA CO-OPS station list - https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations.json / https://opendap.co-ops.nos.noaa.gov/stations/stationsXML.jsp <br/>
++ EPA air quality observations - https://docs.airnowapi.org/webservices <br/>
++ NOAA NWS weather api - https://www.weather.gov/documentation/services-web-api / https://api.weather.gov/ <br/>
 
 **Potential Sources For Later Integration:**
-+ Real-time data file list - https://www.ndbc.noaa.gov/data/realtime2/ <br/>
-+ Global monitoring data map - https://viz.pmel.noaa.gov/osmc/?color_by=platform_type&platform_code=PTAW1 <br/>
-+ NCEI natural hazards - https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-data?sourceMaxYear=2025&sourceMinYear=2008&typeMeasurementId=2&country=USA&area=CA&locInclude=SAN+DIEGO / https://www.ncei.noaa.gov/maps/hazards/?layers=0 / https://www.ngdc.noaa.gov/hazel/view/swagger#/ <br/>
++ NOAA real-time data file list - https://www.ndbc.noaa.gov/data/realtime2/ <br/>
++ NOAA global monitoring data map - https://viz.pmel.noaa.gov/osmc/?color_by=platform_type&platform_code=PTAW1 <br/>
++ NOAA NCEI natural hazards - https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-data?sourceMaxYear=2025&sourceMinYear=2008&typeMeasurementId=2&country=USA&area=CA&locInclude=SAN+DIEGO / https://www.ncei.noaa.gov/maps/hazards/?layers=0 / https://www.ngdc.noaa.gov/hazel/view/swagger#/ <br/>
 + NOAA tide and current data - https://tidesandcurrents.noaa.gov/map/ <br/>
 + NOAA tide and current prediction error - https://tidesandcurrents.noaa.gov/noaacurrents/assets/docs/Tidal_Current_Prediction_Uncertainty.pdf <br/>
 + NOAA currents prediction data - https://tidesandcurrents.noaa.gov/currents_info.html / https://tidesandcurrents.noaa.gov/education/tech-assist/training/user-guides/assets/pdfs/Current_Predictions_User_Guide_v5.pdf <br/>
-+ PORTS active current stations - https://opendap.co-ops.nos.noaa.gov/axis/webservices/activecurrentstations/response.jsp?format=html / https://tidesandcurrents.noaa.gov/cdata/StationList?type=Current+Data&filter=active <br/>
-+ CO-OPS daily maximum and minimum water level (hourly) - https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?begin_date={yyyymmdd}&end_date={yyyymmdd}&station={station_id}&product=daily_max_min&datum=MHHW&time_zone=gmt&units=metric&application=DataAPI_Sample&format=json <br/>(define the date range with yesterday and today's date, and station_id with correct values) / https://opendap.co-ops.nos.noaa.gov/axis/ <br/>
-+ CO-OPS coastal inundation - https://tidesandcurrents.noaa.gov/inundationdb/ / https://api.tidesandcurrents.noaa.gov/dpapi/prod / https://tidesandcurrents.noaa.gov/api-helper/url-generator.html <br/>
-+ CO-OPS tsunami capable tide stations - https://tidesandcurrents.noaa.gov/tsunami/# <br/>
-+ CO-OPS main observational data resource hub - https://opendap.co-ops.nos.noaa.gov/ <br/>
++ NOAA PORTS active current stations - https://opendap.co-ops.nos.noaa.gov/axis/webservices/activecurrentstations/response.jsp?format=html / https://tidesandcurrents.noaa.gov/cdata/StationList?type=Current+Data&filter=active <br/>
++ NOAA CO-OPS SOAP Web Services - https://opendap.co-ops.nos.noaa.gov/axis/ <br/>
++ NOAA CO-OPS coastal inundation - https://tidesandcurrents.noaa.gov/inundationdb/ / https://api.tidesandcurrents.noaa.gov/dpapi/prod / https://tidesandcurrents.noaa.gov/api-helper/url-generator.html <br/>
++ NOAA CO-OPS tsunami capable tide stations - https://tidesandcurrents.noaa.gov/tsunami/# <br/>
++ NOAA CO-OPS main observational data resource hub - https://opendap.co-ops.nos.noaa.gov/ / https://opendap.co-ops.nos.noaa.gov/axis/ <br/>
 
 ## Methods
 1. Download the Python Notebook file "OceanWeatherApp.ipynb" and import into Google Colab. Or, navigate to the preview section of the github file and click the link at the top labeled "Open in Colab."
