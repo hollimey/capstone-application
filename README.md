@@ -1,8 +1,6 @@
 # Graduate Capstone
 
-Independent research project **created by Holli Meyers**, at the University of Washington in Summer 2025.
-
-This information architecture project is inspired by the shortcomings of Apple and Samsung’s mobile weather apps, which include moon phases but omit ocean tidal information, requiring a separate web browser to look up high and low tide patterns. <br/><br/>
+Independent research project focused around information architecture, inspired by the shortcomings of Apple and Samsung’s mobile weather apps, which include moon phases but omit ocean tidal information, requiring a separate web browser to look up high and low tide patterns. <br/><br/>
 
 
 ## Background
