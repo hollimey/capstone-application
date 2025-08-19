@@ -32,7 +32,7 @@ Web application Earth, provides a non-traditional layout. The site seems more in
 
 
 ## Overview
-The repository contains a new portable information structure. <br/>
+The repository contains a new portable information structure. The structure compiles atmospheric data (seen in current weather apps) and oceanic data (available only on government agency sites). To make the data more portable, several sources have been integrated by combining them into one JSON structure. This was completed through schema mapping by matching IDs/keys so that technical users can better understand the information and easily apply the structure to their application. <br/>
 
 ### Data Sources:
 + NOAA ocean buoy data map, list, guide, and description - https://www.ndbc.noaa.gov/ / https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt / https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf / https://www.ndbc.noaa.gov/faq/measdes.shtml <br/>
