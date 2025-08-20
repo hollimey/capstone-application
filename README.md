@@ -55,4 +55,4 @@ The repository contains a new portable information structure. The structure comp
 
 ## Methods
 1. Download the Python Notebook file "OceanWeatherApp.ipynb" and import into Google Colab. Or, navigate to the preview section of the github file and click the link at the top labeled "Open in Colab."
-2. From there you can run the application, view the executed code, and access the metadata files.
+2. From there you can run the application, view the executed code, and access the new structured JSON files.
